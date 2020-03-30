@@ -1,0 +1,501 @@
+entity_id,tag,commit_url
+77,Fix Implementation Logic ,https://github.com/apache/log4j/commit/3545ce98
+260,Fix Implementation Logic ,https://github.com/h2oai/h2o-2/commit/12d9d8dc8
+426,Fix Implementation Logic ,https://github.com/openpnp/openpnp/commit/03e0beef1c
+598,Fix Implementation Logic ,https://github.com/openpnp/openpnp/commit/9a68d17f0e
+702,Fix Implementation Logic ,https://github.com/freenet/fred/commit/6ef7c340e
+719,Fix Implementation Logic ,https://github.com/apache/ofbiz/commit/0d3500de7d
+792,Fix Implementation Logic ,https://github.com/freenet/fred/commit/60b412444
+808,Fix Implementation Logic ,https://github.com/cSploit/android/commit/721eb556
+1348,Fix Implementation Logic ,https://github.com/apache/cxf/commit/329026ec41
+144,Fix Implementation Logic ,https://github.com/freenet/fred/commit/521992ab1
+1175,Fix Implementation Logic ,https://github.com/freenet/fred/commit/c11dfb63b
+29,Fix Implementation Logic ,https://github.com/apache/cxf/commit/ad577419dd
+796,Fix Implementation Logic ,https://github.com/apache/wicket/commit/ebbe6f1c41
+840,Fix Implementation Logic ,https://github.com/stanfordnlp/CoreNLP/commit/7590c3511
+889,Fix Implementation Logic ,https://github.com/BuildCraft/BuildCraft/commit/2b706ab50
+1524,Fix Implementation Logic ,https://github.com/spacewalkproject/spacewalk/commit/9ade6d9184
+831,Fix Implementation Logic ,https://github.com/mikepenz/AboutLibraries/commit/c1806a6
+1006,Fix Implementation Logic ,https://github.com/magefree/mage/commit/d344d2315d
+1261,Fix Implementation Logic ,https://github.com/codenameone/CodenameOne/commit/a4e1e62d
+1306,Fix Implementation Logic ,https://github.com/cbeust/testng/commit/3b4b5443
+1297,Fix Implementation Logic ,https://github.com/openhab/openhab1-addons/commit/5e7ab60bb
+1526,Fix Implementation Logic ,https://github.com/AsyncHttpClient/async-http-client/commit/ee8c6ea58
+1413,Fix Implementation Logic ,https://github.com/JanusGraph/janusgraph/commit/fc73a2ff6
+996,Null Pointer Exception,https://github.com/Atmosphere/atmosphere/commit/f3790baa0
+1463,Null Pointer Exception,https://github.com/Atmosphere/atmosphere/commit/cc977a3d0
+130,Wrong Return Value,https://github.com/cache2k/cache2k/commit/89f7d4ed
+152,Wrong Return Value,https://github.com/igvteam/igv/commit/80d0e1c42
+730,Wrong Return Value,https://github.com/micdoodle8/Galacticraft/commit/f74600446
+396,Wrong If Condition,https://github.com/wyvernlang/wyvern/commit/da436c59
+440,Wrong If Condition,https://github.com/vickychijwani/quill/commit/4298a6e
+648,Wrong If Condition,https://github.com/apavlo/h-store/commit/832d927e1
+1091,Wrong If Condition,https://github.com/codenameone/CodenameOne/commit/f7037aed
+1565,Wrong If Condition,https://github.com/bndtools/bnd/commit/958ab7a23
+450,Wrong Method Reference,https://github.com/k9mail/k-9/commit/9b3e4cbcf
+201,Wrong Variable Reference,https://github.com/classgraph/classgraph/commit/e04f2d03
+42,Wrong Variable Reference,https://github.com/h2oai/h2o-3/commit/b617451a65
+893,Wrong Variable Reference,https://github.com/freenet/fred/commit/848cbe6ea
+221,Wrong Variable Reference,https://github.com/freenet/fred/commit/62241e996
+411,Wrong Variable Reference,https://github.com/xwiki/xwiki-platform/commit/166546361d
+1361,Wrong Variable Reference,https://github.com/freenet/fred/commit/aa4b168a9
+1403,Forgot to Deprecate Method After a New One Implemented,https://github.com/liferay/liferay-portal/commit/420db255f4ef
+1462,Forgot to Propagate Code Change,https://github.com/VoltDB/voltdb/commit/3f2f49e4ab
+90,Change Propagation,https://github.com/spacewalkproject/spacewalk/commit/fec7040069
+413,Change Propagation,https://github.com/apache/ofbiz/commit/b9659b52cf
+230,Change Propagation,https://github.com/apache/ofbiz/commit/2d20ac0cd2
+723,Forgot to Propagate Code Change,https://github.com/sakaiproject/sakai/commit/fe900e1866
+28,Forgot to Propagate Code Change,https://github.com/kickstarter/android-oss/commit/5e9bb682
+279,Forgot to Propagate Code Change,https://github.com/stanfordnlp/CoreNLP/commit/b5c3084e0
+945,Forgot to Propagate Code Change,https://github.com/Wolfsblvt/BlossomsPokemonGoManager/commit/671aaad
+1016,Forgot to Propagate Code Change,https://github.com/h2oai/h2o-3/commit/74774801dc
+914,Forgot to Propagate Code Change,https://github.com/plutext/docx4j/commit/840b8e53
+1024,Forgot to Propagate Code Change,https://github.com/OpenGamma/Strata/commit/1a042f6e9
+252,Change Propagation,https://github.com/Hive2Hive/Hive2Hive/commit/ebf292a3
+261,Forgot to Propagate Code Change,https://github.com/apache/commons-lang/commit/d230e3a42
+649,Forgot to Propagate Code Change,https://github.com/tomp2p/TomP2P/commit/4bc6e824
+904,Forgot to Propagate Code Change,https://github.com/micdoodle8/Galacticraft/commit/54012b435
+1036,Forgot to Propagate Code Change,https://github.com/liferay/liferay-portal/commit/993f54ab6edd
+1198,Forgot to Propagate Code Change,https://github.com/DSpace/DSpace/commit/7c0dca7b6
+89,Forgot to Propagate Code Change,https://github.com/openpnp/openpnp/commit/77277b9b7c
+92,Forgot to Propagate Code Change,https://github.com/magefree/mage/commit/0ad967a5b3
+510,Forgot to Propagate Code Change,https://github.com/restfb/restfb/commit/e7f48170
+974,Forgot to Propagate Code Change,https://github.com/chrisbanes/philm/commit/a205b73
+1176,Forgot to Propagate Code Change,https://github.com/AsyncHttpClient/async-http-client/commit/86e8c7635
+711,Forgot to Propagate Code Change,https://github.com/zxing/zxing/commit/c28040bc
+545,Forgot to Propagate Code Change,https://github.com/00-Evan/shattered-pixel-dungeon/commit/2fad9b3a
+874,Forgot to Propagate Code Change,https://github.com/bardsoftware/ganttproject/commit/2c40a078
+512,Forgot to Propagate Code Change,https://github.com/restfb/restfb/commit/b8bd08a6
+343,Wrong Literal Values,https://github.com/stanfordnlp/CoreNLP/commit/bb3e5ea36
+1341,Wrong Literal Values,https://github.com/apache/cxf/commit/a39eda5057
+1019,Wrong Literal Values,https://github.com/jitsi/jitsi/commit/a2e939f9a
+316,Ambiguous References Due To Incomplete Move Package Refactoring,https://github.com/apache/accumulo/commit/b8859513a
+937,Missing Guard Clause,https://github.com/codenameone/CodenameOne/commit/cd3a357f
+1180,Missing Guard Clause,https://github.com/koush/AndroidAsync/commit/a904da4
+171,Fix Broken Test,https://github.com/oracle/fastr/commit/b49741d7c
+527,Fix Broken Test,https://github.com/jankotek/mapdb/commit/eac22b71
+217,Fix Broken Test,https://github.com/Netflix/denominator/commit/e727b9d
+633,Fix Broken Test,https://github.com/UniversalMediaServer/UniversalMediaServer/commit/0f93bd7b0
+1080,Fixes tests broken in code,https://github.com/Alluxio/alluxio/commit/0043e96c97
+560,Mark test with FailureExpected after test breaking commit,https://github.com/hibernate/hibernate-orm/commit/7f71735e3b
+194,Code Refectoring/ Clean up (Formatting),https://github.com/apache/tomcat/commit/afa630fe8f
+377,Fields Ordering,https://github.com/chrisbanes/photup/commit/b84c6e2
+1170,Fields Ordering,https://github.com/liferay/liferay-portal/commit/ebe57e1bf381
+1520,Indentation/Line Break,https://github.com/jitsi/jitsi-videobridge/commit/9108797f
+395,Indentation/Line Break,https://github.com/apache/ofbiz/commit/12c75e0641
+20,Indentation/Line Break,https://github.com/apache/ofbiz/commit/39589179eb
+1318,Indentation/Line Break,https://github.com/liferay/liferay-portal/commit/8691935b0175
+1328,Indentation/Line Break,https://github.com/runelite/runelite/commit/b916bb504
+157,Indentation/Line Break,https://github.com/liferay/liferay-portal/commit/e68eda0f41a1
+33,Remove Debugging Code,https://github.com/adempiere/adempiere/commit/0a9a9ba54
+86,Remove Debugging Code,https://github.com/micdoodle8/Galacticraft/commit/a27125b35
+263,Remove Debugging Code,https://github.com/DragonetMC/DragonProxy/commit/c1a972c
+535,Remove Debugging Code,https://github.com/micdoodle8/Galacticraft/commit/1be2eeb28
+682,Remove Debugging Code,https://github.com/apache/ofbiz/commit/e7bdc3befa
+1040,Remove Debugging Code,https://github.com/codenameone/CodenameOne/commit/14c92810
+1263,Remove Debugging Code,https://github.com/blazegraph/database/commit/abff5697a
+1347,Remove Unnecessary Code,https://github.com/apache/ofbiz/commit/0a7a4c6ce5
+931,Remove Unnecessary Code,https://github.com/k9mail/k-9/commit/c15c3dc22
+612,Remove Unnecessary Code,https://github.com/couchbase/couchbase-lite-android/commit/03edb483
+562,Remove Unnecessary Code,https://github.com/freenet/fred/commit/42a4077f3
+768,Remove Unnecessary Code,https://github.com/FXMisc/RichTextFX/commit/d86fc00
+1493,Remove Unnecessary Code,https://github.com/openmrs/openmrs-core/commit/aa0c13fe6
+1484,Remove Unnecessary Code,https://github.com/k9mail/k-9/commit/f66bc4776
+1189,Remove Unnecessary Code,https://github.com/spring-projects/spring-social/commit/8230b152
+102,Improve Code Comprehensibility,https://github.com/essentials/Essentials/commit/531f40cee
+298,Improve Code Comprehensibility,https://github.com/scala-android/sbt-android/commit/88c8776
+428,Improve Code Comprehensibility,https://github.com/zxing/zxing/commit/47871325
+637,Improve Code Comprehensibility,https://github.com/apache/commons-io/commit/a4394043
+999,Improve Code Comprehensibility,https://github.com/Col-E/Recaf/commit/8ce45ab
+1005,Improve Code Comprehensibility,https://github.com/liferay/liferay-portal/commit/165cf159fc0e
+661,Improve Code Comprehensibility,https://github.com/primefaces/primefaces/commit/0c1b9d95e
+1277,Improve Code Comprehensibility,https://github.com/sparklemotion/nokogiri/commit/9360cccb
+196,Rename Method for Consistency,https://github.com/liferay/liferay-portal/commit/1b5c378d4785
+110,Extract Method Refactoring,https://github.com/liferay/liferay-plugins/commit/1a930e5e96
+188,Fix Improper Exception Name,https://github.com/IQSS/dataverse/commit/89982c32b
+1148,Fix Improper Exception Name,https://github.com/vaadin/framework/commit/4ccfd5186b
+1109,Fix Improper Exception Name,https://github.com/apache/commons-lang/commit/bff3f2fdb
+917,Improve Performance,https://github.com/rzwitserloot/lombok/commit/57f59074
+1564,Improve Performance,https://github.com/OpenRefine/OpenRefine/commit/687e9064
+326,Warning,https://github.com/grpc/grpc-java/commit/446ee224d
+1243,Warning,https://github.com/xwiki/xwiki-platform/commit/ab5a410a8e
+1265,Warning,https://github.com/spacewalkproject/spacewalk/commit/4f05d26aa3
+469,Import Became Unused After Code Change,https://github.com/apache/logging-log4j2/commit/e2570d61c
+175,Import Became Unused After Code Change,https://github.com/apache/logging-log4j2/commit/8a954dfe6
+471,Import Became Unused After Code Change,https://github.com/apache/ofbiz/commit/85ddb46220
+185,Remove Newly Introduced Import,https://github.com/geotools/geotools/commit/71fa5b9f29
+271,Remove Newly Introduced Import,https://github.com/groovy/groovy-core/commit/b0b106a9f
+1241,Remove Newly Introduced Import,https://github.com/apache/groovy/commit/1880cbd156
+117,Syntax Error,https://github.com/orientechnologies/orientdb/commit/54a5fc64f4
+1340,Syntax Error,https://github.com/cinchapi/concourse/commit/9bbde165f
+1580,Syntax Error,https://github.com/freenet/fred/commit/2e1c66998
+1441,Syntax Error,https://github.com/react-native-community/react-native-camera/commit/7efbd50
+485,Syntax Error,https://github.com/apache/ofbiz/commit/362f0510dc
+1456,Syntax Error,https://github.com/SpoutDev/Spout/commit/da47bfe39
+179,Syntax Error,https://github.com/zxing/zxing/commit/dee32b13
+382,Syntax Error,https://github.com/apache/ofbiz/commit/df58452eb6
+968,Syntax Error,https://github.com/micronaut-projects/micronaut-core/commit/f842a4827
+1409,Syntax Error,https://github.com/metasfresh/metasfresh/commit/c6ba0b660f
+64,Syntax Error,https://github.com/aosp-mirror/platform_frameworks_base/commit/258d222152a
+131,Syntax Error,https://github.com/CyanogenMod/android_frameworks_base/commit/258d222152a
+203,Syntax Error,https://github.com/structr/structr/commit/19f126922
+1477,Syntax Error,https://github.com/codenameone/CodenameOne/commit/07d3518c
+1573,Syntax Error,https://github.com/OpenHFT/Chronicle-Map/commit/20af7f57
+349,Syntax Error,https://github.com/j-easy/easy-batch/commit/80218b66
+1282,Syntax Error (Typos),https://github.com/igniterealtime/Spark/commit/ae63be5c
+94,Syntax Error (Typos),https://github.com/freenet/fred/commit/9af1bc33e
+408,Syntax Error (Typos),https://github.com/apache/ofbiz/commit/cc0c17d791
+459,Syntax Error (Typos),https://github.com/mikepenz/MaterialDrawer/commit/3148a7ca
+647,Syntax Error (References),https://github.com/cinchapi/concourse/commit/5d42722ec
+780,Syntax Error (References),https://github.com/winder/Universal-G-Code-Sender/commit/f39ed907
+1098,Syntax Error (References),https://github.com/hazelcast/hazelcast/commit/27e39646c2
+1355,Syntax Error (References),https://github.com/h2oai/h2o-3/commit/5f619f81bd
+58,Syntax Error (References),https://github.com/freenet/fred/commit/9709f5193
+676,Syntax Error (References),https://github.com/octopus-platform/joern/commit/c579f4db
+166,Syntax Error (References),https://github.com/codenameone/CodenameOne/commit/fc3e8d04
+1370,Syntax Error (References),https://github.com/BuildCraft/BuildCraft/commit/759e8901f
+155,Broken References Caused by Rename Refactoring,https://github.com/citerus/dddsample-core/commit/4932dca
+164,Broken References Caused by Rename Refactoring,https://github.com/typetools/checker-framework/commit/769e4d9b7
+15,Broken References Caused by Rename Refactoring,https://github.com/DroidPlanner/Tower/commit/72132d049
+135,Broken References Caused by Rename Refactoring,https://github.com/DroidPlanner/Tower/commit/8f8de97b3
+581,Broken References Caused by Rename Refactoring,https://github.com/typetools/checker-framework/commit/e6730dc52
+1101,Broken References Caused by Rename Refactoring,https://github.com/DroidPlanner/Tower/commit/3c576a37e
+1208,Broken References Caused by Rename Refactoring,https://github.com/DroidPlanner/Tower/commit/673aa267f
+1552,Broken References Caused by Rename Refactoring,https://github.com/DroidPlanner/Tower/commit/d1ebb2005
+87,Broken References Caused by Rename Refactoring,https://github.com/igvteam/igv/commit/36debc0d8
+1446,Broken References Caused by Rename Refactoring,https://github.com/DroidPlanner/Tower/commit/97419b610
+1492,Broken References Caused by Rename Refactoring,https://github.com/apache/cxf/commit/e83dff85e1
+27,Forgot to Add an Import,https://github.com/SeleniumHQ/selenium/commit/af5f749e90
+807,Forgot to Add an Import,https://github.com/knowm/XChange/commit/c2e18bc5a
+926,Forgot to Add an Import,https://github.com/apache/hbase/commit/7a29d460a2
+1286,Forgot to Add an Import,https://github.com/adempiere/adempiere/commit/c42563224
+843,Fix Error in Configuration File,https://github.com/DSpace/DSpace/commit/7fedefef0
+1048,Fix Error in Configuration File,https://github.com/jamesdbloom/mockserver/commit/b37cdaca
+85,Fix Error in Configuration File,https://github.com/apache/ofbiz/commit/f468687b07
+276,Fix Error in Configuration File,https://github.com/cgeo/cgeo/commit/9f1633c2a
+1305,Fix Error in Configuration File,https://github.com/apache/ofbiz/commit/95577d32fc
+146,Fix Error in Configuration File,https://github.com/apache/ofbiz/commit/92a58bc4ed
+1222,Fix Error in Configuration File,https://github.com/IQSS/dataverse/commit/c3f95bf32
+1339,Fix Build Issue in Build Script,https://github.com/GoClipse/goclipse/commit/07ddd206
+18,Fix Build Issue in Build Script,https://github.com/apache/ofbiz/commit/959ae2ba82
+248,Fix Build Issue in Build Script,https://github.com/consulo/consulo/commit/e461142fd1e
+313,Fix Build Issue in Build Script,https://github.com/xwiki/xwiki-platform/commit/e3f40bdddb
+883,Fix Build Issue in Build Script,https://github.com/BuildCraft/BuildCraft/commit/5ae55c266
+1549,Fix Build Issue in Build Script,https://github.com/checkstyle/checkstyle/commit/62a2eed48
+754,Forgot to propagate a change in build file,https://github.com/apache/poi/commit/60159c83b
+879,Forgot to propagate a change in build file,https://github.com/spacewalkproject/spacewalk/commit/46d171a80c
+1062,Forgot to propagate a change in build file,https://github.com/consulo/consulo/commit/232b6834c3b
+832,Release Note,https://github.com/apache/lucene-solr/commit/9dc5d7edda
+1497,Release Note,https://github.com/metasfresh/metasfresh/commit/802bb90340
+565,Release Note,https://github.com/pmd/pmd/commit/e9b96497d
+1014,Release Note,https://github.com/rzwitserloot/lombok/commit/9538adc1
+1235,Release Note,https://github.com/apache/hadoop/commit/7ebee49b9f7
+1289,Release Note,https://github.com/jenkinsci/jenkins/commit/7e2500c7d3
+1396,Release Note,https://github.com/jfree/jfreechart/commit/9cc3683b
+1512,Release Note,https://github.com/apache/hadoop/commit/62c70a228fe
+886,Update Release Note for Previous Code Changes,https://github.com/apache/hadoop/commit/108e0e09534
+1008,Update Release Note for Previous Code Changes,https://github.com/jenkinsci/jenkins/commit/b66165b76e
+1399,Update Release Note for Previous Code Changes,https://github.com/FasterXML/jackson-databind/commit/3afaa74b4
+1491,Update Release Note for Previous Code Changes,https://github.com/jfree/jfreechart/commit/f14f32ae
+1528,Update Release Note for Previous Code Changes,https://github.com/rzwitserloot/lombok/commit/cfa9bef5
+95,Update Release Note to Fix Wrong Issue Number,https://github.com/apache/oozie/commit/a21d3498
+335,Update Release Note to Fix Wrong Issue Number,https://github.com/apache/hadoop/commit/38f8b0aee58
+1354,Update Release Note to Fix Wrong Issue Number,https://github.com/apache/lucene-solr/commit/f05d6cac52
+1507,Update Release Note to Fix Wrong Issue Number,https://github.com/iBotPeaches/Apktool/commit/0e2d3076
+355,Update Copyright Year,https://github.com/javaee/glassfish/commit/4a421c9f75
+404,Update Copyright Year,https://github.com/apache/commons-collections/commit/92cee86e
+409,Update Copyright Year,https://github.com/apache/ofbiz/commit/46f52bee74
+898,Update Copyright Year,https://github.com/geoserver/geoserver/commit/27ffd305fe
+66,Code Comment,https://github.com/VoltDB/voltdb/commit/a3aa04924f
+312,Code Comment,https://github.com/openmrs/openmrs-core/commit/1bd9c7319
+1089,Code Comment,https://github.com/SeleniumHQ/selenium/commit/bdd6563709
+1508,Code Comment,https://github.com/blazegraph/database/commit/e24285335
+1519,Code Comment,https://github.com/blazegraph/database/commit/ba43f38c2
+277,Code Comment,https://github.com/liferay/liferay-portal/commit/bda5345b5af0
+664,Document the Rationale of Code Changes,https://github.com/jitsi/jitsi/commit/6a361bbf6
+591,Document the Rationale of Code Changes,https://github.com/flowable/flowable-engine/commit/57a32ab6ca
+538,Fix Code Comment,https://github.com/apache/lucene-solr/commit/a3ee984bc8
+1332,Fix Code Comment (Formatting/Readability Improvements),https://github.com/xwiki/xwiki-platform/commit/b63c8ed5cf
+1044,Fix Code Comment,https://github.com/restfb/restfb/commit/6f6c0a59
+755,Fix Misleading/ Erroneous Comment,https://github.com/DSpace/DSpace/commit/edbb77ff3
+1401,Fix Code Comment,https://github.com/xwiki/xwiki-platform/commit/5064a4545a
+126,Remove Payed Back Self Admitted Technical Debt,https://github.com/apache/tinkerpop/commit/a4c62be7a5
+330,Remove Payed Back Self Admitted Technical Debt,https://github.com/apache/tinkerpop/commit/f09b365b93
+1298,Remove Payed Back Self Admitted Technical Debt,https://github.com/blazegraph/database/commit/8e8b573fc
+120,Add Missed Commit Message,https://github.com/threerings/getdown/commit/c3c9c66
+461,Add Missed Commit Message,https://github.com/blazegraph/database/commit/5e7ba1511
+971,Add Missed Commit Message,https://github.com/blazegraph/database/commit/d1efdb450
+1301,Add Missed Commit Message,https://github.com/opendatakit/collect/commit/0f7be712
+1481,Add Missed Commit Message,https://github.com/jfree/jfreechart/commit/d2448fde
+1364,ReadMe File,https://github.com/komoot/photon/commit/2f98a74
+448,ReadMe File,https://github.com/neo4j/neo4j/commit/a5980f46728
+21,ReadMe File,https://github.com/intuit/karate/commit/0859291c
+540,ReadMe File,https://github.com/xwiki/xwiki-platform/commit/f651ebe19f
+897,ReadMe File,https://github.com/apache/hadoop/commit/da56d4ccfd4
+948,ReadMe File,https://github.com/rabbitmq/rabbitmq-java-client/commit/14cbd618e
+1092,ReadMe File,https://github.com/spring-projects/spring-integration/commit/279c30d1b
+1269,Reverted Commit,https://github.com/wordpress-mobile/WordPress-Android/commit/da27459234
+227,Reverted Commit,https://github.com/BroadleafCommerce/BroadleafCommerce/commit/5261324c4a
+911,Reverted Commit,https://github.com/apache/hadoop/commit/f083ce8a350
+451,Reverted Commit,https://github.com/apache/groovy/commit/a1bee6786f
+1511,Reverted Commit,https://github.com/apache/pdfbox/commit/dbc400d11
+54,Reverted Commit,https://github.com/bigbluebutton/bigbluebutton/commit/83493e4523
+871,Reverted Commit,https://github.com/pmd/pmd/commit/b5ca1490b
+200,Reverted Commit,https://github.com/JetBrains/MPS/commit/56d759eedfa3
+1223,Reverted Commit,https://github.com/apache/tinkerpop/commit/04efe0c5cd
+14,Reverted Commit,https://github.com/apache/hbase/commit/5b18c563f6
+554,Reverted Commit,https://github.com/aimacode/aima-java/commit/315b8cfd
+182,Reverted Commit,https://github.com/apache/tomcat/commit/7262569f15
+226,Reverted Commit,https://github.com/apache/lucene-solr/commit/387ddaf56a
+401,Reverted Commit,https://github.com/apache/activemq/commit/a55efe952
+489,Reverted Commit,https://github.com/apache/incubator-druid/commit/4bc721f3b
+674,Reverted Commit,https://github.com/jMonkeyEngine/jmonkeyengine/commit/5080e3fe4
+733,Reverted Commit,https://github.com/apache/ofbiz/commit/dec6caba44
+836,Reverted Commit,https://github.com/netty/netty/commit/831a13694
+880,Reverted Commit,https://github.com/UniversalMediaServer/UniversalMediaServer/commit/26c5e83d3
+960,Reverted Commit,https://github.com/findbugsproject/findbugs/commit/c75a8fe80
+961,Reverted Commit,https://github.com/apache/tomcat/commit/f056e45da7
+1034,Reverted Commit,https://github.com/tlaplus/tlaplus/commit/7332b54b1
+1113,Reverted Commit,https://github.com/tlaplus/tlaplus/commit/a23406a30
+1171,Reverted Commit,https://github.com/apache/commons-lang/commit/f2970e827
+1218,Reverted Commit,https://github.com/mucommander/mucommander/commit/fa6d3e5f
+1367,Reverted Commit,https://github.com/netty/netty/commit/36bba6b29
+1378,Reverted Commit,https://github.com/apache/apex-core/commit/85177948b
+1383,Reverted Commit,https://github.com/freenet/fred/commit/ce0953818
+1432,Reverted Commit,https://github.com/apache/hadoop/commit/86e5a7f96db
+1436,Reverted Commit,https://github.com/wso2/msf4j/commit/904e0a89
+1498,Reverted Commit,https://github.com/xwiki/xwiki-platform/commit/6edd523d50
+1513,Reverted Commit,https://github.com/apache/camel/commit/a7d57cf304f
+1532,Reverted Commit,https://github.com/apache/camel/commit/6cc9ccd980e
+1561,Reverted Commit,https://github.com/DSpace/DSpace/commit/0f0d154df
+1516,Reverted Commit,https://github.com/jitsi/jitsi/commit/e6c56a4b4
+848,Reverted Commit,https://github.com/apache/log4j/commit/23a7c94a
+548,Reverted Commit (Due to Introduced Bug),https://github.com/apache/hbase/commit/261fcbdd87
+995,Reverted Commit (Due to Introduced Bug),https://github.com/opentripplanner/OpenTripPlanner/commit/d16112fbf
+416,Delete File Inadvertently Added,https://github.com/Atmosphere/atmosphere/commit/d29e50b58
+32,Delete File Inadvertently Added,https://github.com/apache/tomcat/commit/a535fb57b2
+621,Delete File Inadvertently Added,https://github.com/aaberg/sql2o/commit/df3e029
+57,Reverted Commit (Due to Unintended Change),https://github.com/apache/tomcat/commit/3d0eb64ac8
+151,Reverted Commit (Due to Unintended Change),https://github.com/jitsi/jitsi/commit/5e931c461
+663,Reverted Commit (Due to Unintended Change),https://github.com/apache/activemq/commit/915a91150
+685,Reverted Commit (Due to Unintended Change),https://github.com/apache/jmeter/commit/6546fa2d1
+872,Reverted Commit (Due to Unintended Change),https://github.com/SeleniumHQ/selenium/commit/6772ded510
+150,Reverted Commit (Due to Unintended Change),https://github.com/apache/cassandra/commit/b27ba049b1
+258,Reverted Commit (Due to Unintended Change),https://github.com/cmusphinx/sphinx4/commit/7b55ab5c
+392,Reverted Commit (Due to Unintended Change),https://github.com/apache/tomcat/commit/056353c7b6
+422,Reverted Commit (Due to Unintended Change),https://github.com/apache/cxf/commit/3d01fec6a0
+457,Reverted Commit (Due to Unintended Change),https://github.com/real-logic/aeron/commit/0d31368e5
+683,Reverted Commit (Due to Unintended Change),https://github.com/DSpace/DSpace/commit/810b2dc5c
+1365,Reverted Commit (Due to Unintended Change),https://github.com/Railcraft/Railcraft/commit/aca3c78f
+1517,Reverted Commit (Due to Unintended Change),https://github.com/apache/tomcat/commit/48c5a6d33d
+412,Reverted Commit (Due to Unintended Change),https://github.com/apache/tinkerpop/commit/b10dea84d7
+292,Reverted Commit (Due to Unintended Change),https://github.com/apache/ofbiz/commit/701eb7aea5
+443,Reverted Commit (Due to Unintended Change),https://github.com/Teradata/kylo/commit/1add21ced1
+1470,Reverted Commit (Due to Failing Test),https://github.com/apache/hbase/commit/8fd194d696
+8,Commit added/deleted files missed in previous commit,https://github.com/Netflix/astyanax/commit/9ea90477
+49,Commit added/deleted files missed in previous commit,https://github.com/apache/ofbiz/commit/c7cd0a400c
+60,Commit added/deleted files missed in previous commit,https://github.com/Netflix/curator/commit/4dac4caf
+114,Commit added/deleted files missed in previous commit,https://github.com/Automattic/simplenote-android/commit/73d1ef1
+138,Commit added/deleted files missed in previous commit,https://github.com/micdoodle8/Galacticraft/commit/844ce1340
+187,Commit added/deleted files missed in previous commit,https://github.com/JetBrains/intellij-plugins/commit/017b669060
+205,Commit added/deleted files missed in previous commit,https://github.com/blazegraph/database/commit/2a6862ce8
+218,Commit added/deleted files missed in previous commit,https://github.com/blazegraph/database/commit/f86515cea
+229,Commit added/deleted files missed in previous commit,https://github.com/apache/ofbiz/commit/8dd0a6138c
+240,Commit added/deleted files missed in previous commit,https://github.com/lessthanoptimal/BoofCV/commit/130a98515
+275,Commit added/deleted files missed in previous commit,https://github.com/federicoiosue/Omni-Notes/commit/b986be8a
+288,Commit added/deleted files missed in previous commit,https://github.com/blazegraph/database/commit/c19571b14
+300,Commit added/deleted files missed in previous commit,https://github.com/apache/tomcat/commit/c205c4b3d4
+303,Commit added/deleted files missed in previous commit,https://github.com/apavlo/h-store/commit/f69ccbcb5
+344,Commit added/deleted files missed in previous commit,https://github.com/apache/ofbiz/commit/5b656b390d
+362,Commit added/deleted files missed in previous commit,https://github.com/AxonFramework/AxonFramework/commit/b28412813
+364,Commit added/deleted files missed in previous commit,https://github.com/ethereum/ethereumj/commit/c95048498
+372,Commit added/deleted files missed in previous commit,https://github.com/killbill/killbill/commit/f7b5af308
+386,Commit added/deleted files missed in previous commit,https://github.com/jitsi/jitsi/commit/12092d02d
+433,Commit added/deleted files missed in previous commit,https://github.com/h2oai/h2o-2/commit/9efcd6d42
+442,Commit added/deleted files missed in previous commit,https://github.com/apache/ofbiz/commit/83d0675228
+475,Commit added/deleted files missed in previous commit,https://github.com/apache/hadoop/commit/e24940438a8
+478,Commit added/deleted files missed in previous commit,https://github.com/apache/lucene-solr/commit/c1a58825ce
+481,Commit added/deleted files missed in previous commit,https://github.com/metasfresh/metasfresh/commit/a5c747ca81
+496,Commit added/deleted files missed in previous commit,https://github.com/stanfordnlp/CoreNLP/commit/a09788d54
+542,Commit added/deleted files missed in previous commit,https://github.com/jitsi/jitsi/commit/bc4bb7a8b
+546,Commit added/deleted files missed in previous commit,https://github.com/apache/lucene-solr/commit/784586df47
+556,Commit added/deleted files missed in previous commit,https://github.com/VoltDB/voltdb/commit/dadce6de27
+572,Commit added/deleted files missed in previous commit,https://github.com/apache/tomcat/commit/569670e0c5
+608,Commit added/deleted files missed in previous commit,https://github.com/Atmosphere/atmosphere/commit/53d334e92
+631,Commit added/deleted files missed in previous commit,https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/commit/ca2d6166
+672,Commit added/deleted files missed in previous commit,https://github.com/lessthanoptimal/BoofCV/commit/08a7aa2a3
+693,Commit added/deleted files missed in previous commit,https://github.com/apache/pig/commit/125f295ea
+713,Commit added/deleted files missed in previous commit,https://github.com/apache/hive/commit/fbc04ee68c
+725,Commit added/deleted files missed in previous commit,https://github.com/blazegraph/database/commit/8c790cd1b
+728,Commit added/deleted files missed in previous commit,https://github.com/jMonkeyEngine/jmonkeyengine/commit/82b8cebc1
+766,Commit added/deleted files missed in previous commit,https://github.com/micdoodle8/Galacticraft/commit/dfccd10e9
+769,Commit added/deleted files missed in previous commit,https://github.com/Netflix/eureka/commit/ee6427b8
+777,Commit added/deleted files missed in previous commit,https://github.com/lessthanoptimal/BoofCV/commit/6e0310102
+778,Commit added/deleted files missed in previous commit,https://github.com/killbill/killbill/commit/659d6c37a
+781,Commit added/deleted files missed in previous commit,https://github.com/consulo/consulo/commit/c5494f5c73d
+789,Commit added/deleted files missed in previous commit,https://github.com/apache/ofbiz/commit/66810b6af7
+822,Commit added/deleted files missed in previous commit,https://github.com/raphw/byte-buddy/commit/0b94c4e0b7
+858,Commit added/deleted files missed in previous commit,https://github.com/lenskit/lenskit/commit/c5991a91b
+860,Commit added/deleted files missed in previous commit,https://github.com/apache/ofbiz/commit/58210f7030
+863,Commit added/deleted files missed in previous commit,https://github.com/spacewalkproject/spacewalk/commit/1f968943ad
+865,Commit added/deleted files missed in previous commit,https://github.com/OryxProject/oryx/commit/684bac0a
+875,Commit added/deleted files missed in previous commit,https://github.com/essentials/Essentials/commit/055f11c89
+900,Commit added/deleted files missed in previous commit,https://github.com/tlaplus/tlaplus/commit/2b7af3cc7
+922,Commit added/deleted files missed in previous commit,https://github.com/apache/cxf/commit/dfd27c6b89
+946,Commit added/deleted files missed in previous commit,https://github.com/SeleniumHQ/selenium/commit/0652a19e7d
+962,Commit added/deleted files missed in previous commit,https://github.com/trifork/erjang/commit/a1ce82ea
+967,Commit added/deleted files missed in previous commit,https://github.com/VoltDB/voltdb/commit/9518438653
+989,Commit added/deleted files missed in previous commit,https://github.com/apache/hadoop/commit/7440b972565
+993,Commit added/deleted files missed in previous commit,https://github.com/apache/hadoop/commit/2f51a3f53d9
+1007,Commit added/deleted files missed in previous commit,https://github.com/apache/hadoop/commit/480b0f8b97e
+1022,Commit added/deleted files missed in previous commit,https://github.com/apache/lucene-solr/commit/ee16eafe72
+1056,Commit added/deleted files missed in previous commit,https://github.com/payara/Payara/commit/374c5d11a1
+1078,Commit added/deleted files missed in previous commit,https://github.com/blazegraph/database/commit/6d211b8f6
+1082,Commit added/deleted files missed in previous commit,https://github.com/blazegraph/database/commit/43e5c8c4b
+1095,Commit added/deleted files missed in previous commit,https://github.com/eclipse/jetty.project/commit/00bceee734
+1122,Commit added/deleted files missed in previous commit,https://github.com/citerus/dddsample-core/commit/7689e49
+1141,Commit added/deleted files missed in previous commit,https://github.com/TEAMMATES/teammates/commit/fb4c970fe
+1213,Commit added/deleted files missed in previous commit,https://github.com/hazelcast/hazelcast/commit/cfa63128ac
+1219,Commit added/deleted files missed in previous commit,https://github.com/openmhealth/shimmer/commit/217b646
+1233,Commit added/deleted files missed in previous commit,https://github.com/SmartBear/soapui/commit/684369141
+1237,Commit added/deleted files missed in previous commit,https://github.com/thinkaurelius/titan/commit/296b40e34
+1273,Commit added/deleted files missed in previous commit,https://github.com/pgjdbc/pgjdbc/commit/2e146b90
+1310,Commit added/deleted files missed in previous commit,https://github.com/EssentialsX/Essentials/commit/055f11c8
+1345,Commit added/deleted files missed in previous commit,https://github.com/SeleniumHQ/selenium/commit/2a4d8b012e
+1379,Commit added/deleted files missed in previous commit,https://github.com/wordpress-mobile/WordPress-Android/commit/a10433e254
+1414,Commit added/deleted files missed in previous commit,https://github.com/essentials/Essentials/commit/33c6fc1f1
+1428,Commit added/deleted files missed in previous commit,https://github.com/plutext/docx4j/commit/3eba0fa6
+1450,Commit added/deleted files missed in previous commit,https://github.com/tomp2p/TomP2P/commit/109ea676
+1523,Commit added/deleted files missed in previous commit,https://github.com/apache/ofbiz/commit/8d54af53e1
+378,Commit added/deleted files missed in previous commit,https://github.com/hibernate/hibernate-search/commit/1b0af2bdd
+19,Commit added/deleted files missed in previous commit,https://github.com/apache/camel/commit/3af86b7d01a
+39,Commit added/deleted files missed in previous commit,https://github.com/torakiki/pdfsam/commit/48b65079
+70,Commit added/deleted files missed in previous commit,https://github.com/blazegraph/database/commit/7f92ae9f4
+91,Commit added/deleted files missed in previous commit,https://github.com/apache/ofbiz/commit/fa5a1fe3e1
+137,Commit added/deleted files missed in previous commit,https://github.com/essentials/Essentials/commit/7bcafee89
+169,Commit added/deleted files missed in previous commit,https://github.com/blazegraph/database/commit/0080d0ae6
+265,Commit added/deleted files missed in previous commit,https://github.com/BluSunrize/ImmersiveEngineering/commit/32689420
+274,Commit added/deleted files missed in previous commit,https://github.com/apache/hadoop/commit/eff9217ec94
+301,Commit added/deleted files missed in previous commit,https://github.com/lessthanoptimal/BoofCV/commit/93194f7e7
+337,Commit added/deleted files missed in previous commit,https://github.com/mulesoft/mule/commit/45b7da40f9
+338,Commit added/deleted files missed in previous commit,https://github.com/oracle/opengrok/commit/5bfc1e36
+350,Commit added/deleted files missed in previous commit,https://github.com/blazegraph/database/commit/32e6daf26
+369,Commit added/deleted files missed in previous commit,https://github.com/commons-app/apps-android-commons/commit/64e16ad1
+398,Commit added/deleted files missed in previous commit,https://github.com/tomp2p/TomP2P/commit/b0fdc53e
+423,Commit added/deleted files missed in previous commit,https://github.com/apache/cxf/commit/a24500b290
+454,Commit added/deleted files missed in previous commit,https://github.com/apache/ofbiz/commit/7364e0ea22
+499,Commit added/deleted files missed in previous commit,https://github.com/apache/tinkerpop/commit/a8ce0ad482
+544,Commit added/deleted files missed in previous commit,https://github.com/apache/hadoop/commit/c3f7c1f3e55
+549,Commit added/deleted files missed in previous commit,https://github.com/actorapp/actor-platform/commit/9bf3f8361
+573,Commit added/deleted files missed in previous commit,https://github.com/EdwardRaff/JSAT/commit/16662709
+580,Commit added/deleted files missed in previous commit,https://github.com/apache/hive/commit/9fcaaf2c6d
+625,Commit added/deleted files missed in previous commit,https://github.com/blazegraph/database/commit/847024c0d
+627,Commit added/deleted files missed in previous commit,https://github.com/mulesoft/mule/commit/dd857d3fda
+651,Commit added/deleted files missed in previous commit,https://github.com/apache/activemq/commit/3a6e7cb98
+658,Commit added/deleted files missed in previous commit,https://github.com/TeamAmaze/AmazeFileManager/commit/acb7cbe4
+659,Commit added/deleted files missed in previous commit,https://github.com/structr/structr/commit/f8a85ac1b
+675,Commit added/deleted files missed in previous commit,https://github.com/liferay/liferay-portal/commit/792477fa6d4d
+707,Commit added/deleted files missed in previous commit,https://github.com/apache/cxf/commit/6940c5f350
+752,Commit added/deleted files missed in previous commit,https://github.com/spacecowboy/NotePad/commit/b7952f52
+761,Commit added/deleted files missed in previous commit,https://github.com/sakaiproject/sakai/commit/1b116533ff
+763,Commit added/deleted files missed in previous commit,https://github.com/apache/poi/commit/16d78b324
+775,Commit added/deleted files missed in previous commit,https://github.com/typetools/checker-framework/commit/ec67868ca
+896,Commit added/deleted files missed in previous commit,https://github.com/JetBrains/MPS/commit/e32ddf0b5766
+981,Commit added/deleted files missed in previous commit,https://github.com/apache/ofbiz/commit/1a43e8ff5d
+991,Commit added/deleted files missed in previous commit,https://github.com/iDevicesInc/SweetBlue/commit/bdd7de98
+1061,Commit added/deleted files missed in previous commit,https://github.com/apache/ofbiz/commit/8d5a4103d5
+1077,Commit added/deleted files missed in previous commit,https://github.com/JabRef/jabref/commit/3b76dd5f5
+1120,Commit added/deleted files missed in previous commit,https://github.com/blazegraph/database/commit/9e64fb5a4
+1128,Commit added/deleted files missed in previous commit,https://github.com/freenet/fred/commit/88fe22412
+1152,Commit added/deleted files missed in previous commit,https://github.com/freenet/fred/commit/650ef572a
+1166,Commit added/deleted files missed in previous commit,https://github.com/logstash/logstash-logback-encoder/commit/e24427b
+1178,Commit added/deleted files missed in previous commit,https://github.com/SeleniumHQ/selenium/commit/1b94df9cb5
+1204,Commit added/deleted files missed in previous commit,https://github.com/apache/flink/commit/ae11045345
+1205,Commit added/deleted files missed in previous commit,https://github.com/apache/ofbiz/commit/1d30145e04
+1236,Commit added/deleted files missed in previous commit,https://github.com/flyway/flyway/commit/5700176f6
+1255,Commit added/deleted files missed in previous commit,https://github.com/SeleniumHQ/selenium/commit/5815e24c24
+1281,Commit added/deleted files missed in previous commit,https://github.com/schwabe/ics-openvpn/commit/12d79b76
+1283,Commit added/deleted files missed in previous commit,https://github.com/google/data-transfer-project/commit/b0913559
+1288,Commit added/deleted files missed in previous commit,https://github.com/blazegraph/database/commit/b869cf487
+1299,Commit added/deleted files missed in previous commit,https://github.com/chrisbanes/philm/commit/651b355
+1302,Commit added/deleted files missed in previous commit,https://github.com/Graylog2/graylog2-server/commit/b3b1d3d1d
+1323,Commit added/deleted files missed in previous commit,https://github.com/apache/ofbiz/commit/dee770d5f4
+1423,Commit added/deleted files missed in previous commit,https://github.com/filebot/filebot/commit/93d2e0f3
+1445,Commit added/deleted files missed in previous commit,https://github.com/apache/hadoop/commit/2cb3c3c66c3
+1571,Commit added/deleted files missed in previous commit,https://github.com/jfree/jfreechart/commit/bbfb4ade
+1107,Commit added/deleted files missed in previous commit,https://github.com/wordpress-mobile/WordPress-Android/commit/c1a476fa20
+1384,Commit added/deleted files missed in previous commit,https://github.com/apache/hadoop/commit/5c8258020fa
+833,Commit added/deleted files missed in previous commit,https://github.com/AnySoftKeyboard/AnySoftKeyboard/commit/90f9fa2a
+1229,Commit added/deleted files missed in previous commit,https://github.com/linkedin/camus/commit/1ea298c
+402,Commit added/deleted files missed in previous commit,https://github.com/Atmosphere/atmosphere/commit/0201694ab
+537,Commit added/deleted files missed in previous commit,https://github.com/apache/poi/commit/d2b1debab
+923,Commit added/deleted files missed in previous commit,https://github.com/antlr/antlr4/commit/2d8ffee5e
+774,Commit added/deleted files missed in previous commit,https://github.com/micronaut-projects/micronaut-core/commit/a4bbb1267
+888,Commit added/deleted files missed in previous commit,https://github.com/DV8FromTheWorld/JDA/commit/a8d67437
+30,Commit added/deleted files missed in previous commit,https://github.com/Hive2Hive/Hive2Hive/commit/181c2856
+1060,Commit added/deleted files missed in previous commit,https://github.com/apache/groovy/commit/28851b4c61
+1390,Commit added/deleted files missed in previous commit,https://github.com/openstreetmap/osmosis/commit/33dd60ff
+1506,Commit added/deleted files missed in previous commit,https://github.com/groovy/groovy-core/commit/28851b4c6
+895,Commit added/deleted files missed in previous commit,https://github.com/freenet/fred/commit/c57ad77b0
+1137,Commit added/deleted files missed in previous commit,https://github.com/google/auto/commit/9194a8c
+399,Commit added/deleted files missed in previous commit,https://github.com/spacewalkproject/spacewalk/commit/a681392d1a
+192,Commit added/deleted files missed in previous commit,https://github.com/apache/poi/commit/7a9783f2a
+329,Commit added/deleted files missed in previous commit,https://github.com/h2oai/h2o-3/commit/dfea275ce3
+453,Commit added/deleted files missed in previous commit,https://github.com/pgjdbc/pgjdbc/commit/52d215d3
+813,Commit added/deleted files missed in previous commit,https://github.com/apache/geode/commit/ad7fc9ce8
+912,Commit added/deleted files missed in previous commit,https://github.com/blazegraph/database/commit/3d1c22e51
+1111,Commit added/deleted files missed in previous commit,https://github.com/neo4j/neo4j/commit/1290905fe5a
+147,Finalizing Code Change,https://github.com/rstudio/rstudio/commit/45539784d5
+969,Finalizing Code Change,https://github.com/h2oai/h2o-2/commit/847712efe
+1320,Finalizing Code Change,https://github.com/mikepenz/MaterialDrawer/commit/ef381001
+1407,Finalizing Code Change,https://github.com/apache/mina/commit/1477a89a4
+112,Add Test for Implemented Code,https://github.com/h2oai/h2o-3/commit/4cfb3f754e
+208,Add Test for Implemented Code,https://github.com/apache/cxf/commit/85fb44cd42
+368,Add Test for Implemented Code,https://github.com/liferay/liferay-portal/commit/8380aab6a437
+490,Add Test for Implemented Code,https://github.com/find-sec-bugs/find-sec-bugs/commit/77aca44a
+50,Add Test for Implemented Code,https://github.com/apache/struts/commit/685bb1d06
+1097,Complete Previous Implementation Task,https://github.com/geoserver/geoserver/commit/22c89ad106
+1496,Complete Previous Implementation Task,https://github.com/openpnp/openpnp/commit/aeef4cb0e4
+799,Complete Previous Implementation Task,https://github.com/consulo/consulo/commit/621680dc9cc
+483,FALSE POSITIVE,https://github.com/blazegraph/database/commit/b757b2d7b
+522,FALSE POSITIVE,https://github.com/freenet/fred/commit/ee20dc471
+532,FALSE POSITIVE,https://github.com/IQSS/dataverse/commit/4abb4e96e
+541,FALSE POSITIVE,https://github.com/filebot/filebot/commit/3a601f13
+577,FALSE POSITIVE,https://github.com/apache/ofbiz/commit/9adc635f66
+585,FALSE POSITIVE,https://github.com/mcMMO-Dev/mcMMO/commit/d0e9f0331
+588,FALSE POSITIVE,https://github.com/elki-project/elki/commit/82e61dca7
+596,FALSE POSITIVE,https://github.com/Activiti/Activiti/commit/402cdb463
+611,FALSE POSITIVE,https://github.com/mulesoft/mule/commit/e8c6a18744
+636,FALSE POSITIVE,https://github.com/stanfordnlp/CoreNLP/commit/6516d29d7
+642,FALSE POSITIVE,https://github.com/liferay/liferay-portal/commit/1f3d6c84bfd2
+655,FALSE POSITIVE,https://github.com/h2oai/h2o-2/commit/3c58b2c24
+698,FALSE POSITIVE,https://github.com/blazegraph/database/commit/c59272e8e
+737,FALSE POSITIVE,https://github.com/liferay/liferay-portal/commit/6d5f2ebb2dae
+738,FALSE POSITIVE,https://github.com/freenet/fred/commit/7f7cfd13b
+764,FALSE POSITIVE,https://github.com/apache/ofbiz/commit/8941949df3
+771,FALSE POSITIVE,https://github.com/consulo/consulo/commit/83444b2c5d2
+773,FALSE POSITIVE,https://github.com/oracle/visualvm/commit/98e115b20
+861,FALSE POSITIVE,https://github.com/jindrapetrik/jpexs-decompiler/commit/5100b53b0
+899,FALSE POSITIVE,https://github.com/j-easy/easy-batch/commit/63373e78
+929,FALSE POSITIVE,https://github.com/UniversalMediaServer/UniversalMediaServer/commit/37693a742
+954,FALSE POSITIVE,https://github.com/typetools/checker-framework/commit/1a44b7c2a
+975,FALSE POSITIVE,https://github.com/DSpace/DSpace/commit/7d89510d3
+979,FALSE POSITIVE,https://github.com/DSpace/DSpace/commit/24e7a5a5e
+1001,FALSE POSITIVE,https://github.com/kiegroup/optaplanner/commit/6c1939a24
+1041,FALSE POSITIVE,https://github.com/liferay/liferay-portal/commit/49561c22eae2
+1071,FALSE POSITIVE,https://github.com/h2oai/h2o-3/commit/5934bdd7d2
+1072,FALSE POSITIVE,https://github.com/freenet/fred/commit/7eac5ef8c
+1084,FALSE POSITIVE,https://github.com/xetorthio/jedis/commit/aa9a5e25
+1121,FALSE POSITIVE,https://github.com/stanfordnlp/CoreNLP/commit/12ab4abd2
+1167,FALSE POSITIVE,https://github.com/liferay/liferay-portal/commit/f43720d1efad
+1209,FALSE POSITIVE,https://github.com/blazegraph/database/commit/b4cdf9ce6
+1226,FALSE POSITIVE,https://github.com/Vazkii/Botania/commit/27d66c18b
+1307,FALSE POSITIVE,https://github.com/blazegraph/database/commit/7707c8d2b
+1314,FALSE POSITIVE,https://github.com/processing/processing/commit/aaba5ea52
+1350,FALSE POSITIVE,https://github.com/jenkinsci/jenkins/commit/bf9d021a2d
+1372,FALSE POSITIVE,https://github.com/mulesoft/mule/commit/5078aedd2d
+1429,FALSE POSITIVE,https://github.com/liferay/liferay-portal/commit/f86b2c60c847
+1430,FALSE POSITIVE,https://github.com/liferay/liferay-portal/commit/f88bd6fd3cec
+1465,FALSE POSITIVE,https://github.com/apache/logging-log4j2/commit/ee6d45f60
+1480,FALSE POSITIVE,https://github.com/magefree/mage/commit/dc5908e7f1
+1542,FALSE POSITIVE,https://github.com/mikepenz/FastAdapter/commit/364dc1a1
