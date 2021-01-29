@@ -1,4 +1,4 @@
-repos_name,bug_fix,bug_fix_without_fully_reverted,bug_fix_without_all_reverted,refactoring,refactoring_without_fully_reverted,refactoring_without_all_reverted,fully_reverted,partial_reverted,total_commits_java
+repos_name,bug_fix,bug_fix_w/o_fully_reverted,bug_fix_w/o_all_reverted,refactoring,refactoring_w/o_fully_reverted,refactoring_w/o_all_reverted,fully_reverted,partial_reverted,total_commits_java
 xwiki/xwiki-platform,875,873,870,8436,8409,8409,90,24,25157
 apache/ignite,478,475,475,8499,8490,8489,56,18,20591
 apache/cassandra,301,300,300,4895,4877,4876,59,7,12803
