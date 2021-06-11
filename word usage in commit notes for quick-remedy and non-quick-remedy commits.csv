@@ -1,0 +1,12 @@
+quick-remedy commits, , ,non-quick-remedy commits, , 
+word, occurrence, ranking, word, occurrence(average), ranking(average)
+miss , 116 , 1 , fix , 83.2 , 1
+fix , 100 , 2 , add , 63.2 , 2
+file , 89 , 3 , merge , 46.8 , 3
+add , 76 , 4 , update , 34.5 , 4.3
+forget , 42 , 5 , test , 30.9 , 4.8
+test , 34 , 6 , branch , 23.3 , 6.3
+revert , 32 , 7 , remove , 21.9 , 7.4
+remove , 31 , 8 , request , 20.5 , 7.7
+change , 25 , 9 , pull , 17.6 , 10.1 
+oops & typo, 15, 10, master , 15.3 , 11.5
