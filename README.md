@@ -7,3 +7,5 @@ The repository contains:
 * [tagged-commits.csv] : The list of 500 tagged commits.
 
 * [impact-reverted.csv] : The quantitative results of analyzing the impact of reverted commits on MSR data collection tasks.
+
+* [words-usagee.csv] : Words usage in commit notes for quick-remedy and non-quick-remedy commits.
